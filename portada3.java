@@ -1,0 +1,6 @@
+<includeonly>=</includeonly>==[[Web soap attachment service methods - Direct Integration Manual Index|Web soap attachment service methods]]==<includeonly>=</includeonly>
+#[[Web soap attachment service methods - Direct Integration Manual Index#“CargarAdjuntos” Method|“CargarAdjuntos” Method]]
+#	[[Web soap attachment service methods - Direct Integration Manual Index#SCENARIOS ISSUING DOCUMENTS WITH GRAPHIC REPRESENTATION|SCENARIOS ISSUING DOCUMENTS WITH GRAPHIC REPRESENTATION]]
+#	[[Web soap attachment service methods - Direct Integration Manual Index#Standard graphic representation (Use of the attachments parameter of the Send Method in '0' or '1')|Standard graphic representation (Use of the attachments parameter of the Send Method in '0' or '1')]]
+#	[[Web soap attachment service methods - Direct Integration Manual Index#Custom graphic representation by TFHKA|Custom graphic representation by TFHKA]]
+#	[[Web soap attachment service methods - Direct Integration Manual Index#Graphic representation sent as an attachment from the administrative system or ERP (Use of the attachments parameter of the Send method in '11')|Graphic representation sent as an attachment from the administrative system or ERP (Use of the attachments parameter of the Send method in '11')]]
